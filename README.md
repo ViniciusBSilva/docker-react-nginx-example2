@@ -1,3 +1,10 @@
+Example from 
+https://medium.com/bb-tutorials-and-thoughts/how-to-serve-react-application-with-nginx-and-docker-9c51ac2c50ba 
+Source code: 
+https://github.com/bbachi/react-nginx-docker
+
+## ################################################ Original Readme:
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
