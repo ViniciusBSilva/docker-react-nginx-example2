@@ -1,0 +1,10 @@
+// clone the project
+git clone https://github.com/bbachi/react-nginx-docker
+// install and start the dependencies
+npm install
+npm start
+// build the docker image
+docker build -t react-ui .
+// run the app
+docker run -d --name reactui -p 80:80 react-ui
+
